@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40278" started-at="2017-12-26T20:57:37Z" finished-at="2017-12-26T20:58:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40278" started-at="2017-12-26T20:57:37Z" finished-at="2017-12-26T20:58:17Z">
+      <class name="com.uitesting.PageObjectModel.Module.LoginPage.LoginTest">
+        <test-method status="PASS" signature="setUpBrwoser()[pri:0, instance:com.uitesting.PageObjectModel.Module.LoginPage.LoginTest@3ffc5af1]" name="setUpBrwoser" is-config="true" duration-ms="21463" started-at="2017-12-27T02:27:37Z" finished-at="2017-12-27T02:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrwoser -->
+        <test-method status="PASS" signature="TCC01_LoginWithValidCredentials()[pri:0, instance:com.uitesting.PageObjectModel.Module.LoginPage.LoginTest@3ffc5af1]" name="TCC01_LoginWithValidCredentials" duration-ms="18785" started-at="2017-12-27T02:27:58Z" finished-at="2017-12-27T02:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCC01_LoginWithValidCredentials -->
+      </class> <!-- com.uitesting.PageObjectModel.Module.LoginPage.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
